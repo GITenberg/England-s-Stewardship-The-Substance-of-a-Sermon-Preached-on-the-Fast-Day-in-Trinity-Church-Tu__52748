@@ -1,0 +1,27 @@
+_repo: England-s-Stewardship-The-Substance-of-a-Sermon-Preached-on-the-Fast-Day-in-Trinity-Church-Tu__52748
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+description: ''
+gutenberg_issued: '2016-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- British occupation, 1765-1947'
+- !lcsh 'Sermons, English -- 19th century'
+- !lcc 'BV'
+- !lcsh 'Church of England -- Sermons'
+- GITenberg
+title: "England's Stewardship\r\nThe Substance of a Sermon Preached on the Fast-Day,\
+  \ in Trinity Church, Tunbridge Wells"
+url: http://www.gutenberg.org/ebooks/52748
